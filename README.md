@@ -17,8 +17,7 @@ This project demonstrates how I manage and automate **schedules** in Zoho CRM. S
 - Best practices for **time management and productivity** in CRM.  
 
 ## Technologies Used
-- Zoho CRM  
-- Deluge scripting  
+- Zoho CRM    
 - Zoho CRM APIs  
 
 ## Outcome
